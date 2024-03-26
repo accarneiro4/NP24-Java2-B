@@ -1,0 +1,2 @@
+}else if (codigo ==2) {
+		cor = "Próxima luz do semáforo será amarelo";
